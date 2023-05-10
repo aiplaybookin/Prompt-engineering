@@ -2,7 +2,7 @@
 
 ## General Guidelines
 
-#### 1. Principle 1: Write clear and specific instructions
+#### Principle 1: Write clear and specific instructions
 
 Tactic 1: Use delimiters to clearly indicate distinct parts of the input
 
@@ -43,7 +43,7 @@ the most intricate tapestry begins with a solitary thread.
 <child>: Teach me about resilience.
 ```
 
-#### 2. Principle 2: Give the model time to “think”
+#### Principle 2: Give the model time to “think”
 
 Tactic 1: Specify the steps required to complete a task
 
